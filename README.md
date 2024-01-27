@@ -13,7 +13,7 @@
  </div>
  <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/davislyu/davislyu/output/github-contribution-grid-snake.svg" style="filter: brightness(50%);" />
+   <img src="https://raw.githubusercontent.com/davislyu/davislyu/snake/github-snake-dark.svg" width="100%">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=davislyu&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
 
