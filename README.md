@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,mui,html,css,scss,sass,vscode,github,figma,tailwind,git,vite" />
+    <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,mui,html,css,scss,vscode,github,figma,tailwind,git,vite" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,redis,mysql,flask" /><br>
 </div>
 
@@ -51,7 +51,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-
 <picture>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davislyu&theme=dark&hide_border=true" alt="GitHub Streak" /></a>  <br/>
 </div>
