@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=davislyu.davislyu" />
 
-<h1 align="center">
+<h1 align="center" style="color: #00d668;">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Davis+Lyubarskly!&color=00d668" />
 
 </h1>
 
-<h3 align="center">A passionate software developer from Israel 🇮🇱</h3>
+<h3 align="center" style="color: #00d668;">A passionate software developer from Israel 🇮🇱</h3>
 
-<div align="center">
+<div align="center" style="color: #00d668;">
 
   
 
@@ -20,7 +20,7 @@
 
  <div align="center">
 
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2 style="color: #00d668;">🐍 My Contributions 🐍</h2>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=davislyu&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
@@ -29,7 +29,7 @@
 
  
 
-<div align="center"> 
+<div align="center" style="color: #00d668;"> 
 
   <a href="Davislyu@gmail.com">
 
@@ -55,7 +55,7 @@
 
  
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center" style="color: #00d668;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
 
@@ -66,7 +66,7 @@
 
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center" style="color: #00d668;">⚡ Stats ⚡</h2>
 
 <br>
 
