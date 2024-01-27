@@ -52,8 +52,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=davislyu&theme=dark)](https://git.io/streak-stats)<br/><br/>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davislyu" alt="GitHub Streak" /></a>
 <hr/>
 
 
