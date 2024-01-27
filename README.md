@@ -42,8 +42,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davislyu&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davislyu)](https://github.com/davislyu/github-readme-activity-graph)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davislyu&theme=dark&hide_border=true" alt="GitHub Streak" /></a>  <br/>
 </div>
 
