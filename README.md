@@ -43,8 +43,6 @@
 <br>
 <div align=center>
 <picture>
-  <a href="https://github.com/davislyu/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-davislyu.vercel.app/api/top-langs/?username=davislyu&theme=merko&layout=compact&border_color=599200&langs_count=6">
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davislyu&theme=dark&hide_border=true" alt="GitHub Streak" /></a>  <br/>
 </div>
 
