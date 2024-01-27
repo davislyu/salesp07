@@ -74,6 +74,7 @@
 <div align=center>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=davislyu&theme=vue-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+<img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=davislyu&theme=merko&layout=compact&border_color=00d668&langs_count=6">
  <br/>
 
 </div>
