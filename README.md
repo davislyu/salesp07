@@ -13,9 +13,7 @@
  </div>
  <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-   <img src="https://raw.githubusercontent.com/davislyu/davislyu/snake/github-snake-dark.svg" width="100%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davislyu&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=davislyu&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
   <br/><br/><br/>
 </div>
@@ -45,6 +43,8 @@
 <br>
 <div align=center>
 <picture>
+  <a href="https://github.com/davislyu/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-davislyu.vercel.app/api/top-langs/?username=davislyu&theme=merko&layout=compact&border_color=599200&langs_count=6">
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davislyu&theme=dark&hide_border=true" alt="GitHub Streak" /></a>  <br/>
 </div>
 
