@@ -63,9 +63,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=davislyu&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=davislyu&show_icons=true" />
-  <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davislyu&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davislyu&theme=dark&hide_border=true" alt="GitHub Streak" /></a>  <br/>
 </div>
 
 
