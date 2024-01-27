@@ -24,7 +24,6 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=davislyu&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
-  <br/><br/><br/>
 
 </div>
 
