@@ -71,8 +71,8 @@
 
 <div align=center>
 
-<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=davislyu&theme=merko&border=00d668&border_color=00d668">
-<img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=davislyu&theme=merko&layout=compact&border_color=00d668&langs_count=6">
+<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=davislyu&theme=merko&border=00d668&border_color=00d668" width="50%">
+<img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=davislyu&theme=merko&layout=compact&border_color=00d668&langs_count=6" width="50%">
  <br/>
 
 </div>
