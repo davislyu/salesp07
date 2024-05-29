@@ -5,6 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Davis+Lyubarskly!&color=00d668" />
 
 </h1>
+![image](https://github.com/Davislyu/davislyu/assets/27707434/3c3cec90-02c1-4109-88ab-079f928c1678)
+
 
 <h3 align="center" style="color: #00d668;">A passionate software developer from Israel 🇮🇱</h3>
 
