@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Davis+Lyubarskly!&color=00d668" />
 
+<div align="center">
+  <img src="https://vuejs.org/images/logo.png" width="100" height="100"/>
+</div>
+
 </h1>
 <img align="center" src="https://vuejs.org/images/logo.png" width="100" height="100"/>
 
